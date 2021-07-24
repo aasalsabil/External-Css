@@ -1,0 +1,204 @@
+.a{
+    color: black; font-size: 30px; text-transform: capitalize;
+}
+.b{
+    color:blue; text-transform: uppercase;
+}
+.c{
+    color: brown; text-transform: lowercase;
+}
+.d{
+    color:chocolate; text-transform: uppercase;
+}
+.e{
+    color:red;
+}
+.f{
+    color: tomato;
+}
+.g{
+    background-color: aqua; text-transform: capitalize; border: 1px solid black
+}
+.h{
+    background-color: blue; text-transform: lowercase;
+}
+.i{
+    background-color: blueviolet; text-transform: uppercase;
+}
+.j{
+    background-color: brown; text-transform: inherit;
+}
+.k{
+    background-color: burlywood; text-transform: initial;
+}
+.l{
+    background-color: cadetblue;
+}
+.i1{
+    color: seashell;
+}
+.i2{
+    color: silver;
+}
+.i3{
+    color: snow;
+}
+.i4-1{
+    color:blanchedalmond;
+}
+.i4-2{
+    color: orange;
+}
+.m{
+    background-color: chartreuse;
+}
+.n{
+    background-color: chocolate;
+}
+.o{
+    background-color: coral;
+}
+.p{
+    background-color: cornflowerblue; 
+}
+.p1{
+    color: moccasin; font-family: Arial, Helvetica, sans-serif; text-transform: capitalize;
+}
+.p2{
+    color: navajowhite; font-family: monospace; text-transform: lowercase;
+}
+.p3{
+    color: oldlace; font-family: serif; text-transform: uppercase;
+}
+.p4{
+    color: papayawhip; font-family: fantasy; text-transform: inherit;
+}
+.p5{
+    color: ivory; font-family: Verdana, Geneva, Tahoma, sans-serif; text-transform: initial;
+}
+.p6{
+    color: lavenderblush; font-family: 'Times New Roman', Times, serif; text-transform: unset;
+}
+.q{
+    background-color: crimson;
+}
+.r{
+    background-color: cyan;
+}
+.s{
+    background-color: darkblue;
+}
+.t{
+    background-color: darkcyan;
+}
+.u{
+    background-color: darkgoldenrod;
+}
+.v{
+    background-color: darkgray; color: azure; 
+}
+.v1{
+    color: blue;
+}
+.v2{
+    color: darkgreen;
+}
+.w{
+    background-color: darkgreen;
+}
+.x{
+    background-color: darkkhaki;
+}
+.y{
+    background-color: darkmagenta;
+}
+.z{
+    background-color: darkolivegreen;
+}
+.a1{
+    background-color: darkorange;
+}
+.a2{
+    background-color: darkorchid;
+}
+.a3{
+    background-color: darkred;
+}
+.a4{
+    background-color: darksalmon;
+}
+.a5{
+    background-color: darkseagreen;
+}
+.a6{
+    background-color: darkslateblue;
+}
+.a7{
+    background-color: darkslategray;
+}
+.a8{
+    background-color: darkslategrey;
+}
+.a9{
+    background-color: darkturquoise;
+}
+.a10{
+    background-color: darkviolet;
+}
+.b1{
+    background-color: deeppink;
+}
+.b2{
+    background-color: deepskyblue;
+}
+.b3{
+    background-color: dimgray;
+}
+.b4{
+    background-color: dodgerblue;
+}
+.b5{
+    background-color: firebrick;
+}
+.b6{
+    background-color: floralwhite;
+}
+.b7{
+    background-color: forestgreen;
+}
+.b8{
+    background-color: fuchsia;
+}
+.b9{
+    background-color: green;
+}
+.b10{
+    background-color: greenyellow;
+}
+.c1{
+    background-color: hotpink;
+}
+.c2{
+    background-color: indianred;
+}
+.c3{
+    background-color: indigo;
+}
+.c4{
+    background-color: ivory;
+}
+.c5{
+    background-color: lawngreen;
+}
+.c6{
+    background-color: lightcoral;
+}
+.c7{
+    background-color: lightgreen;
+}
+.c8{
+    background-color: lightsalmon;
+}
+.c9{
+    background-color: limegreen;
+}
